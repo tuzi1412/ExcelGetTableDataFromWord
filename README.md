@@ -1,0 +1,2 @@
+# ExcelGetTableDataFromWord
+vba代码，从word的表格中读取部分数据存到excel表格里
